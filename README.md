@@ -121,5 +121,6 @@ Useful flags:
 ## License
 
 This project is released under the **MIT License**.  
-© 2024 Doğan Ege Bulte
+© 2024 Dogan Ege BULTE
+
 
